@@ -44,7 +44,6 @@ def find_jumble(word):
 
 if __name__ == "__main__":
     print 'input a word'
-    #word = raw_input()
-    word = 'dog'
+    word = raw_input()
     print 'word jumble for this word is:'
     print find_jumble(word)

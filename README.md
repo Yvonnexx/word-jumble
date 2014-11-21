@@ -35,9 +35,18 @@ This file contains a word dictionary.
 ## jumble.py
 This file is the program which accept a string input and return the list of words jumbled from the input string.
 
-* @param function 
-
-generateDict()
+* function generateDict()
 
 This function loads all the words from a txt dictionay file and store all the words in a dictionary.
 
+* function generate_substr(word)
+
+This function generate all the substring of the input string and return it as a list
+
+* function permutation(substr)
+
+This function return all the permutation of an input string
+
+* function find_jumble(word)
+
+This fucntion return all the jumble for the input word

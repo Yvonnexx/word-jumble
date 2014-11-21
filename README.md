@@ -36,6 +36,8 @@ This file contains a word dictionary.
 This file is the program which accept a string input and return the list of words jumbled from the input string.
 
 * @param function 
+
 generateDict()
+
 This function loads all the words from a txt dictionay file and store all the words in a dictionary.
 

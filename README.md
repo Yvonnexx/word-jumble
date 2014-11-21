@@ -15,4 +15,8 @@ This file contains a word dictionary.
 ## jumble.py
 This file is the program which accept a string input and return the list of words jumbled from the input string.
 
+# How to run
+
+* type in the command line in a terminal
+    ''' ./jumble.py
 

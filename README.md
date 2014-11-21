@@ -20,6 +20,9 @@ This file is the program which accept a string input and return the list of word
 # How to run
 
 * type in the command line in a terminal
+
     ``` python
+
         ./jumble.py
+
     ``` 

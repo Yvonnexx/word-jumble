@@ -24,5 +24,13 @@ This file is the program which accept a string input and return the list of word
     ``` python
 
         ./jumble.py
+        
+        'input a word'
+
+        'dog'
+
+        'word jumble for this word is :'
+
+        ['do', 'god', 'go']
 
     ``` 

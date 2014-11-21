@@ -38,7 +38,6 @@ def find_jumble(word):
     for sub in substr:
         for item in permutation(sub):
             if item in dict and item != word:
-                print item
                 res.append(item)
     return res
 

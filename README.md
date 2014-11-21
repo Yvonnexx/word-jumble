@@ -8,6 +8,8 @@ For example, on the input 'dog', the program should return a set of words includ
 
 ## Python 2.7
 
+# File description
+
 ## dict.txt
 This file is generate using the SCOWL (Spell Checker Oriented Word Lists) link http://wordlist.aspell.net/
 This file contains a word dictionary.
@@ -18,5 +20,4 @@ This file is the program which accept a string input and return the list of word
 # How to run
 
 * type in the command line in a terminal
-    ''' ./jumble.py
-
+    ``` ./jumble.py
